@@ -1,0 +1,544 @@
+yarn install v0.24.5
+info No lockfile found.
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+info "fsevents@1.1.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+construction pnpm angular cache clear rm occurs 1
+yarn install v0.24.5
+info No lockfile found.
+[1/4] Resolving packages...
+warning phantomjs@2.1.7: Package renamed to phantomjs-prebuilt. Please update 'phantomjs' package references to 'phantomjs-prebuilt'
+warning phantomjs > request > tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+warning phantomjs > request > node-uuid@1.4.8: Use uuid module instead
+warning cordova > insight > node-uuid@1.4.8: Use uuid module instead
+[2/4] Fetching packages...
+warning fsevents@1.1.2: The platform "linux" is incompatible with this module.
+info "fsevents@1.1.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+warning "@angular/http@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "zone.js@^0.8.4".
+warning "chai-as-promised@6.0.0" has incorrect peer dependency "chai@>= 2.1.2 < 4".
+warning "@angular/router@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "karma-jasmine@1.1.0" has unmet peer dependency "jasmine-core@*".
+[4/4] Building fresh packages...
+error /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs: Command failed.
+Exit code: 1
+Command: sh
+Arguments: -c node install.js
+Directory: /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs
+Output:
+PhantomJS not found on PATH
+Phantom installation failed TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9) TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+real	0m33.036s
+user	0m22.764s
+sys	0m4.724s
+
+construction pnpm angular cache clear rm occurs 2
+yarn install v0.24.5
+info No lockfile found.
+[1/4] Resolving packages...
+warning phantomjs@2.1.7: Package renamed to phantomjs-prebuilt. Please update 'phantomjs' package references to 'phantomjs-prebuilt'
+warning phantomjs > request > node-uuid@1.4.8: Use uuid module instead
+warning cordova > insight > node-uuid@1.4.8: Use uuid module instead
+warning phantomjs > request > tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+[2/4] Fetching packages...
+warning fsevents@1.1.2: The platform "linux" is incompatible with this module.
+info "fsevents@1.1.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+warning "@angular/http@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "zone.js@^0.8.4".
+warning "chai-as-promised@6.0.0" has incorrect peer dependency "chai@>= 2.1.2 < 4".
+warning "@angular/router@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "karma-jasmine@1.1.0" has unmet peer dependency "jasmine-core@*".
+[4/4] Building fresh packages...
+error /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs: Command failed.
+Exit code: 1
+Command: sh
+Arguments: -c node install.js
+Directory: /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs
+Output:
+PhantomJS not found on PATH
+Phantom installation failed TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9) TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+real	0m34.631s
+user	0m23.704s
+sys	0m5.304s
+
+construction pnpm angular cache clear rm occurs 3
+yarn install v0.24.5
+info No lockfile found.
+[1/4] Resolving packages...
+warning phantomjs@2.1.7: Package renamed to phantomjs-prebuilt. Please update 'phantomjs' package references to 'phantomjs-prebuilt'
+warning phantomjs > request > node-uuid@1.4.8: Use uuid module instead
+warning cordova > insight > node-uuid@1.4.8: Use uuid module instead
+warning phantomjs > request > tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+[2/4] Fetching packages...
+warning fsevents@1.1.2: The platform "linux" is incompatible with this module.
+info "fsevents@1.1.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "zone.js@^0.8.4".
+warning "@angular/http@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "chai-as-promised@6.0.0" has incorrect peer dependency "chai@>= 2.1.2 < 4".
+warning "@angular/router@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "karma-jasmine@1.1.0" has unmet peer dependency "jasmine-core@*".
+[4/4] Building fresh packages...
+error /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs: Command failed.
+Exit code: 1
+Command: sh
+Arguments: -c node install.js
+Directory: /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs
+Output:
+PhantomJS not found on PATH
+Phantom installation failed TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9) TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+real	0m33.871s
+user	0m22.780s
+sys	0m4.884s
+
+construction pnpm angular cache clear rm occurs 4
+yarn install v0.24.5
+info No lockfile found.
+[1/4] Resolving packages...
+warning phantomjs@2.1.7: Package renamed to phantomjs-prebuilt. Please update 'phantomjs' package references to 'phantomjs-prebuilt'
+warning phantomjs > request > node-uuid@1.4.8: Use uuid module instead
+warning cordova > insight > node-uuid@1.4.8: Use uuid module instead
+warning phantomjs > request > tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+[2/4] Fetching packages...
+warning fsevents@1.1.2: The platform "linux" is incompatible with this module.
+info "fsevents@1.1.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "zone.js@^0.8.4".
+warning "@angular/http@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "chai-as-promised@6.0.0" has incorrect peer dependency "chai@>= 2.1.2 < 4".
+warning "@angular/router@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "karma-jasmine@1.1.0" has unmet peer dependency "jasmine-core@*".
+[4/4] Building fresh packages...
+error /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs: Command failed.
+Exit code: 1
+Command: sh
+Arguments: -c node install.js
+Directory: /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs
+Output:
+PhantomJS not found on PATH
+Phantom installation failed TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9) TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+real	0m34.326s
+user	0m23.852s
+sys	0m4.920s
+
+construction pnpm angular cache clear rm occurs 5
+yarn install v0.24.5
+info No lockfile found.
+[1/4] Resolving packages...
+warning phantomjs@2.1.7: Package renamed to phantomjs-prebuilt. Please update 'phantomjs' package references to 'phantomjs-prebuilt'
+warning phantomjs > request > node-uuid@1.4.8: Use uuid module instead
+warning cordova > insight > node-uuid@1.4.8: Use uuid module instead
+warning phantomjs > request > tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+[2/4] Fetching packages...
+warning fsevents@1.1.2: The platform "linux" is incompatible with this module.
+info "fsevents@1.1.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+warning "@angular/http@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "zone.js@^0.8.4".
+warning "chai-as-promised@6.0.0" has incorrect peer dependency "chai@>= 2.1.2 < 4".
+warning "@angular/router@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "karma-jasmine@1.1.0" has unmet peer dependency "jasmine-core@*".
+[4/4] Building fresh packages...
+error /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs: Command failed.
+Exit code: 1
+Command: sh
+Arguments: -c node install.js
+Directory: /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs
+Output:
+PhantomJS not found on PATH
+Phantom installation failed TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9) TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+real	0m37.772s
+user	0m23.320s
+sys	0m4.928s
+
+construction yarn angular rm occurs 1
+yarn install v0.24.5
+info No lockfile found.
+[1/4] Resolving packages...
+warning phantomjs@2.1.7: Package renamed to phantomjs-prebuilt. Please update 'phantomjs' package references to 'phantomjs-prebuilt'
+warning phantomjs > request > node-uuid@1.4.8: Use uuid module instead
+warning cordova > insight > node-uuid@1.4.8: Use uuid module instead
+warning phantomjs > request > tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+[2/4] Fetching packages...
+warning fsevents@1.1.2: The platform "linux" is incompatible with this module.
+info "fsevents@1.1.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+warning "@angular/http@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "zone.js@^0.8.4".
+warning "chai-as-promised@6.0.0" has incorrect peer dependency "chai@>= 2.1.2 < 4".
+warning "@angular/router@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "karma-jasmine@1.1.0" has unmet peer dependency "jasmine-core@*".
+[4/4] Building fresh packages...
+error /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs: Command failed.
+Exit code: 1
+Command: sh
+Arguments: -c node install.js
+Directory: /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs
+Output:
+PhantomJS not found on PATH
+Phantom installation failed TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9) TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+real	0m16.506s
+user	0m10.512s
+sys	0m2.088s
+
+construction yarn angular rm occurs 2
+yarn install v0.24.5
+info No lockfile found.
+[1/4] Resolving packages...
+warning phantomjs@2.1.7: Package renamed to phantomjs-prebuilt. Please update 'phantomjs' package references to 'phantomjs-prebuilt'
+warning phantomjs > request > node-uuid@1.4.8: Use uuid module instead
+warning cordova > insight > node-uuid@1.4.8: Use uuid module instead
+warning phantomjs > request > tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+[2/4] Fetching packages...
+warning fsevents@1.1.2: The platform "linux" is incompatible with this module.
+info "fsevents@1.1.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "zone.js@^0.8.4".
+warning "@angular/http@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "chai-as-promised@6.0.0" has incorrect peer dependency "chai@>= 2.1.2 < 4".
+warning "@angular/router@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "karma-jasmine@1.1.0" has unmet peer dependency "jasmine-core@*".
+[4/4] Building fresh packages...
+error /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs: Command failed.
+Exit code: 1
+Command: sh
+Arguments: -c node install.js
+Directory: /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs
+Output:
+PhantomJS not found on PATH
+Phantom installation failed TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9) TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+real	0m23.087s
+user	0m10.444s
+sys	0m2.196s
+
+construction yarn angular rm occurs 3
+yarn install v0.24.5
+info No lockfile found.
+[1/4] Resolving packages...
+warning phantomjs@2.1.7: Package renamed to phantomjs-prebuilt. Please update 'phantomjs' package references to 'phantomjs-prebuilt'
+warning phantomjs > request > node-uuid@1.4.8: Use uuid module instead
+warning cordova > insight > node-uuid@1.4.8: Use uuid module instead
+warning phantomjs > request > tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+[2/4] Fetching packages...
+warning fsevents@1.1.2: The platform "linux" is incompatible with this module.
+info "fsevents@1.1.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+warning "@angular/http@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "zone.js@^0.8.4".
+warning "chai-as-promised@6.0.0" has incorrect peer dependency "chai@>= 2.1.2 < 4".
+warning "@angular/router@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "karma-jasmine@1.1.0" has unmet peer dependency "jasmine-core@*".
+[4/4] Building fresh packages...
+error /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs: Command failed.
+Exit code: 1
+Command: sh
+Arguments: -c node install.js
+Directory: /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs
+Output:
+PhantomJS not found on PATH
+Phantom installation failed TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9) TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+real	0m16.766s
+user	0m10.868s
+sys	0m2.416s
+
+construction yarn angular rm occurs 4
+yarn install v0.24.5
+info No lockfile found.
+[1/4] Resolving packages...
+warning phantomjs@2.1.7: Package renamed to phantomjs-prebuilt. Please update 'phantomjs' package references to 'phantomjs-prebuilt'
+warning phantomjs > request > node-uuid@1.4.8: Use uuid module instead
+warning cordova > insight > node-uuid@1.4.8: Use uuid module instead
+warning phantomjs > request > tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+[2/4] Fetching packages...
+warning fsevents@1.1.2: The platform "linux" is incompatible with this module.
+info "fsevents@1.1.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "zone.js@^0.8.4".
+warning "@angular/http@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "chai-as-promised@6.0.0" has incorrect peer dependency "chai@>= 2.1.2 < 4".
+warning "@angular/router@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "karma-jasmine@1.1.0" has unmet peer dependency "jasmine-core@*".
+[4/4] Building fresh packages...
+error /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs: Command failed.
+Exit code: 1
+Command: sh
+Arguments: -c node install.js
+Directory: /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs
+Output:
+PhantomJS not found on PATH
+Phantom installation failed TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9) TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+real	0m16.973s
+user	0m11.108s
+sys	0m2.056s
+
+construction yarn angular rm occurs 5
+yarn install v0.24.5
+info No lockfile found.
+[1/4] Resolving packages...
+warning phantomjs@2.1.7: Package renamed to phantomjs-prebuilt. Please update 'phantomjs' package references to 'phantomjs-prebuilt'
+warning phantomjs > request > node-uuid@1.4.8: Use uuid module instead
+warning cordova > insight > node-uuid@1.4.8: Use uuid module instead
+warning phantomjs > request > tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+[2/4] Fetching packages...
+warning fsevents@1.1.2: The platform "linux" is incompatible with this module.
+info "fsevents@1.1.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "zone.js@^0.8.4".
+warning "@angular/http@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "chai-as-promised@6.0.0" has incorrect peer dependency "chai@>= 2.1.2 < 4".
+warning "@angular/router@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "karma-jasmine@1.1.0" has unmet peer dependency "jasmine-core@*".
+[4/4] Building fresh packages...
+error /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs: Command failed.
+Exit code: 1
+Command: sh
+Arguments: -c node install.js
+Directory: /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs
+Output:
+PhantomJS not found on PATH
+Phantom installation failed TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9) TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:1211:7)
+    at findSuitableTempDirectory (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:127:30)
+    at /home/lynchmaniac/dev/cfp/yarnangular/node_modules/phantomjs/install.js:476:19
+    at nextTickCallback (/home/lynchmaniac/dev/cfp/yarnangular/node_modules/kew/kew.js:47:28)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+real	0m16.133s
+user	0m10.624s
+sys	0m2.144s
+
+construction yarn angular occurs 1
+yarn install v0.24.5
+info No lockfile found.
+[1/4] Resolving packages...
+warning phantomjs@2.1.7: Package renamed to phantomjs-prebuilt. Please update 'phantomjs' package references to 'phantomjs-prebuilt'
+warning cordova > insight > node-uuid@1.4.8: Use uuid module instead
+warning phantomjs > request > node-uuid@1.4.8: Use uuid module instead
+warning phantomjs > request > tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+[2/4] Fetching packages...
+warning fsevents@1.1.2: The platform "linux" is incompatible with this module.
+info "fsevents@1.1.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/core@4.4.0-RC.0" has unmet peer dependency "zone.js@^0.8.4".
+warning "@angular/http@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "@angular/router@4.4.0-RC.0" has unmet peer dependency "rxjs@^5.0.1".
+warning "chai-as-promised@6.0.0" has incorrect peer dependency "chai@>= 2.1.2 < 4".
+warning "karma-jasmine@1.1.0" has unmet peer dependency "jasmine-core@*".
+[4/4] Building fresh packages...
+success Saved lockfile.
+Done in 15.84s.
+
+real	0m16.023s
+user	0m7.704s
+sys	0m0.700s
+
+construction yarn angular occurs 2
+yarn install v0.24.5
+[1/4] Resolving packages...
+success Already up-to-date.
+Done in 0.71s.
+
+real	0m0.876s
+user	0m0.984s
+sys	0m0.056s
+
+construction yarn angular occurs 3
+yarn install v0.24.5
+[1/4] Resolving packages...
+success Already up-to-date.
+Done in 0.86s.
+
+real	0m1.036s
+user	0m1.120s
+sys	0m0.088s
+
+construction yarn angular occurs 4
+yarn install v0.24.5
+[1/4] Resolving packages...
+success Already up-to-date.
+Done in 0.82s.
+
+real	0m1.029s
+user	0m1.124s
+sys	0m0.080s
+
+construction yarn angular occurs 5
+yarn install v0.24.5
+[1/4] Resolving packages...
+success Already up-to-date.
+Done in 0.82s.
+
+real	0m1.024s
+user	0m1.108s
+sys	0m0.076s

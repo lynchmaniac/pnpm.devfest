@@ -1,0 +1,80 @@
+
+construction npm angular occurs 1
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.0.0 (node_modules/chokidar/node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.1.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+npm WARN @angular/core@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN @angular/core@4.3.6 requires a peer of zone.js@^0.8.4 but none was installed.
+npm WARN @angular/http@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN @angular/router@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN chai-as-promised@6.0.0 requires a peer of chai@>= 2.1.2 < 4 but none was installed.
+npm WARN karma-jasmine@1.1.0 requires a peer of jasmine-core@* but none was installed.
+npm WARN npmangular@1.0.0 No description
+npm WARN npmangular@1.0.0 No repository field.
+
+real	0m11.298s
+user	0m11.000s
+sys	0m0.204s
+
+construction npm angular occurs 2
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.0.0 (node_modules/chokidar/node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.1.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+npm WARN @angular/core@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN @angular/core@4.3.6 requires a peer of zone.js@^0.8.4 but none was installed.
+npm WARN @angular/http@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN @angular/router@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN chai-as-promised@6.0.0 requires a peer of chai@>= 2.1.2 < 4 but none was installed.
+npm WARN karma-jasmine@1.1.0 requires a peer of jasmine-core@* but none was installed.
+npm WARN npmangular@1.0.0 No description
+npm WARN npmangular@1.0.0 No repository field.
+
+real	0m10.891s
+user	0m10.980s
+sys	0m0.188s
+
+construction npm angular occurs 3
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.0.0 (node_modules/chokidar/node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.1.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+npm WARN @angular/core@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN @angular/core@4.3.6 requires a peer of zone.js@^0.8.4 but none was installed.
+npm WARN @angular/http@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN @angular/router@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN chai-as-promised@6.0.0 requires a peer of chai@>= 2.1.2 < 4 but none was installed.
+npm WARN karma-jasmine@1.1.0 requires a peer of jasmine-core@* but none was installed.
+npm WARN npmangular@1.0.0 No description
+npm WARN npmangular@1.0.0 No repository field.
+
+real	0m11.020s
+user	0m11.044s
+sys	0m0.232s
+
+construction npm angular occurs 4
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.0.0 (node_modules/chokidar/node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.1.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+npm WARN @angular/core@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN @angular/core@4.3.6 requires a peer of zone.js@^0.8.4 but none was installed.
+npm WARN @angular/http@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN @angular/router@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN chai-as-promised@6.0.0 requires a peer of chai@>= 2.1.2 < 4 but none was installed.
+npm WARN karma-jasmine@1.1.0 requires a peer of jasmine-core@* but none was installed.
+npm WARN npmangular@1.0.0 No description
+npm WARN npmangular@1.0.0 No repository field.
+
+real	0m10.742s
+user	0m10.772s
+sys	0m0.248s
+
+construction npm angular occurs 5
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.0.0 (node_modules/chokidar/node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.1.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+npm WARN @angular/core@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN @angular/core@4.3.6 requires a peer of zone.js@^0.8.4 but none was installed.
+npm WARN @angular/http@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN @angular/router@4.3.6 requires a peer of rxjs@^5.0.1 but none was installed.
+npm WARN chai-as-promised@6.0.0 requires a peer of chai@>= 2.1.2 < 4 but none was installed.
+npm WARN karma-jasmine@1.1.0 requires a peer of jasmine-core@* but none was installed.
+npm WARN npmangular@1.0.0 No description
+npm WARN npmangular@1.0.0 No repository field.
+
+real	0m10.767s
+user	0m10.832s
+sys	0m0.204s

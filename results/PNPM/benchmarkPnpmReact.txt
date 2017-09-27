@@ -1,0 +1,151 @@
+0.72.0
+
+construction pnpm react cache clear rm occurs 1
+  react-scripts 1.0.7                                                       
+[NaNA  react-scripts 1.0.7                                                     · [NaNB[76D[NaNA  react-scripts 1.0.7                                              queued ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                             finding · [NaNB[76D  react ^15.6.1                                                             
+[NaNA  react ^15.6.1                                                           · [NaNB[76D[NaNA  react ^15.6.1                                                    queued ↓ [NaNB[76D[NaNA  react ^15.6.1                                                   finding · [NaNB[76D  react-dom ^15.6.1                                                         
+[NaNA  react-dom ^15.6.1                                                       · [NaNB[76D[NaNA  react-dom ^15.6.1                                                queued ↓ [NaNB[76D[NaNA  react-dom ^15.6.1                                               finding · [NaNB[76D[NaNA  react-scripts 1.0.7                                          installing . [NaNB[76D[NaNA  react-dom ^15.6.1                                            installing . [NaNB[76D[NaNA  react ^15.6.1                                                installing . [NaNB[76D[NaNA  react ^15.6.1                                            linking 15.6.1 ↓ [NaNB[76D[NaNA  react-dom ^15.6.1                                        linking 15.6.1 ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                       linking 1.0.7 ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D  registry.npmjs.org/fsevents/1.1.2  $ npm run install                      
+  registry.npmjs.org/fsevents/1.1.2  > fsevents@1.1.2 install /home/lynchmaniac/dev/cfp/pnpmreact/node_modules/.registry.npmjs.org/fsevents/1.1.2/node_modules/fsevents  
+  registry.npmjs.org/fsevents/1.1.2  > node install                         
+  registry.npmjs.org/fsevents/1.0.17  $ npm run install                     
+  registry.npmjs.org/fsevents/1.0.17  > fsevents@1.0.17 install /home/lynchmaniac/dev/cfp/pnpmreact/node_modules/.registry.npmjs.org/fsevents/1.0.17/node_modules/fsevents  
+  registry.npmjs.org/fsevents/1.0.17  > node-pre-gyp install --fallback-to-build  
+  registry.npmjs.org/fsevents/1.0.17! node-pre-gyp ERR! Tried to download(404): https://fsevents-binaries.s3-us-west-2.amazonaws.com/v1.0.17/fse-v1.0.17-node-v51-linux-x64.tar.gz   
+  registry.npmjs.org/fsevents/1.0.17! node-pre-gyp ERR! Pre-built binaries not found for fsevents@1.0.17 and node@7.2.0 (node-v51 ABI) (falling back to source compile with node-gyp)   
+  registry.npmjs.org/fsevents/1.0.17  make : on entre dans le répertoire « /home/lynchmaniac/dev/cfp/pnpmreact/node_modules/.registry.npmjs.org/fsevents/1.0.17/node_modules/fsevents/build »  
+  registry.npmjs.org/fsevents/1.0.17    SOLINK_MODULE(target) Release/obj.target/.node  
+  registry.npmjs.org/fsevents/1.0.17    COPY Release/.node                  
+  registry.npmjs.org/fsevents/1.0.17  make : on quitte le répertoire « /home/lynchmaniac/dev/cfp/pnpmreact/node_modules/.registry.npmjs.org/fsevents/1.0.17/node_modules/fsevents/build »  
+
+real	0m13.519s
+user	0m12.444s
+sys	0m1.552s
+
+construction pnpm react cache clear rm occurs 2
+  react-scripts 1.0.7                                                       
+[NaNA  react-scripts 1.0.7                                                     · [NaNB[76D[NaNA  react-scripts 1.0.7                                              queued ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                          installing . [NaNB[76D  react ^15.6.1                                                             
+[NaNA  react ^15.6.1                                                           · [NaNB[76D[NaNA  react ^15.6.1                                                    queued ↓ [NaNB[76D[NaNA  react ^15.6.1                                                installing . [NaNB[76D  react-dom ^15.6.1                                                         
+[NaNA  react-dom ^15.6.1                                                       · [NaNB[76D[NaNA  react-dom ^15.6.1                                                queued ↓ [NaNB[76D[NaNA  react-dom ^15.6.1                                            installing . [NaNB[76D[NaNA  react-dom ^15.6.1                                        linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.0.17  
+[NaNA  react ^15.6.1                                            linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.1.2  
+[NaNA  react-scripts 1.0.7                                       linking 1.0.7 ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D
+real	0m7.610s
+user	0m8.244s
+sys	0m1.164s
+
+construction pnpm react cache clear rm occurs 3
+  react-scripts 1.0.7                                                       
+[NaNA  react-scripts 1.0.7                                                     · [NaNB[76D[NaNA  react-scripts 1.0.7                                              queued ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                          installing . [NaNB[76D  react ^15.6.1                                                             
+[NaNA  react ^15.6.1                                                           · [NaNB[76D[NaNA  react ^15.6.1                                                    queued ↓ [NaNB[76D[NaNA  react ^15.6.1                                                installing . [NaNB[76D  react-dom ^15.6.1                                                         
+[NaNA  react-dom ^15.6.1                                                       · [NaNB[76D[NaNA  react-dom ^15.6.1                                                queued ↓ [NaNB[76D[NaNA  react-dom ^15.6.1                                            installing . [NaNB[76D[NaNA  react-dom ^15.6.1                                        linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.0.17  
+[NaNA  react ^15.6.1                                            linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.1.2  
+[NaNA  react-scripts 1.0.7                                       linking 1.0.7 ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D
+real	0m7.320s
+user	0m8.092s
+sys	0m1.332s
+
+construction pnpm react cache clear rm occurs 4
+  react-scripts 1.0.7                                                       
+[NaNA  react-scripts 1.0.7                                                     · [NaNB[76D[NaNA  react-scripts 1.0.7                                              queued ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                          installing . [NaNB[76D  react ^15.6.1                                                             
+[NaNA  react ^15.6.1                                                           · [NaNB[76D[NaNA  react ^15.6.1                                                    queued ↓ [NaNB[76D[NaNA  react ^15.6.1                                                installing . [NaNB[76D  react-dom ^15.6.1                                                         
+[NaNA  react-dom ^15.6.1                                                       · [NaNB[76D[NaNA  react-dom ^15.6.1                                                queued ↓ [NaNB[76D[NaNA  react-dom ^15.6.1                                            installing . [NaNB[76D[NaNA  react-dom ^15.6.1                                        linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.0.17  
+[NaNA  react ^15.6.1                                            linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.1.2  
+[NaNA  react-scripts 1.0.7                                       linking 1.0.7 ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D
+real	0m7.266s
+user	0m8.044s
+sys	0m1.332s
+
+construction pnpm react cache clear rm occurs 5
+  react-scripts 1.0.7                                                       
+[NaNA  react-scripts 1.0.7                                                     · [NaNB[76D[NaNA  react-scripts 1.0.7                                              queued ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                          installing . [NaNB[76D  react ^15.6.1                                                             
+[NaNA  react ^15.6.1                                                           · [NaNB[76D[NaNA  react ^15.6.1                                                    queued ↓ [NaNB[76D[NaNA  react ^15.6.1                                                installing . [NaNB[76D  react-dom ^15.6.1                                                         
+[NaNA  react-dom ^15.6.1                                                       · [NaNB[76D[NaNA  react-dom ^15.6.1                                                queued ↓ [NaNB[76D[NaNA  react-dom ^15.6.1                                            installing . [NaNB[76D[NaNA  react-dom ^15.6.1                                        linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.0.17  
+[NaNA  react ^15.6.1                                            linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.1.2  
+[NaNA  react-scripts 1.0.7                                       linking 1.0.7 ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D
+real	0m7.307s
+user	0m8.212s
+sys	0m1.172s
+
+construction pnpm react rm occurs 1
+  react-scripts 1.0.7                                                       
+[NaNA  react-scripts 1.0.7                                                     · [NaNB[76D[NaNA  react-scripts 1.0.7                                              queued ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                          installing . [NaNB[76D  react ^15.6.1                                                             
+[NaNA  react ^15.6.1                                                           · [NaNB[76D[NaNA  react ^15.6.1                                                    queued ↓ [NaNB[76D[NaNA  react ^15.6.1                                                installing . [NaNB[76D  react-dom ^15.6.1                                                         
+[NaNA  react-dom ^15.6.1                                                       · [NaNB[76D[NaNA  react-dom ^15.6.1                                                queued ↓ [NaNB[76D[NaNA  react-dom ^15.6.1                                            installing . [NaNB[76D[NaNA  react-dom ^15.6.1                                        linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.0.17  
+[NaNA  react ^15.6.1                                            linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.1.2  
+[NaNA  react-scripts 1.0.7                                       linking 1.0.7 ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D
+real	0m7.409s
+user	0m8.232s
+sys	0m1.180s
+
+construction pnpm react rm occurs 2
+  react-scripts 1.0.7                                                       
+[NaNA  react-scripts 1.0.7                                                     · [NaNB[76D[NaNA  react-scripts 1.0.7                                              queued ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                          installing . [NaNB[76D  react ^15.6.1                                                             
+[NaNA  react ^15.6.1                                                           · [NaNB[76D[NaNA  react ^15.6.1                                                    queued ↓ [NaNB[76D[NaNA  react ^15.6.1                                                installing . [NaNB[76D  react-dom ^15.6.1                                                         
+[NaNA  react-dom ^15.6.1                                                       · [NaNB[76D[NaNA  react-dom ^15.6.1                                                queued ↓ [NaNB[76D[NaNA  react-dom ^15.6.1                                            installing . [NaNB[76D[NaNA  react-dom ^15.6.1                                        linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.0.17  
+[NaNA  react ^15.6.1                                            linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.1.2  
+[NaNA  react-scripts 1.0.7                                       linking 1.0.7 ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D
+real	0m7.365s
+user	0m8.132s
+sys	0m1.204s
+
+construction pnpm react rm occurs 3
+  react-scripts 1.0.7                                                       
+[NaNA  react-scripts 1.0.7                                                     · [NaNB[76D[NaNA  react-scripts 1.0.7                                              queued ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                          installing . [NaNB[76D  react ^15.6.1                                                             
+[NaNA  react ^15.6.1                                                           · [NaNB[76D[NaNA  react ^15.6.1                                                    queued ↓ [NaNB[76D[NaNA  react ^15.6.1                                                installing . [NaNB[76D  react-dom ^15.6.1                                                         
+[NaNA  react-dom ^15.6.1                                                       · [NaNB[76D[NaNA  react-dom ^15.6.1                                                queued ↓ [NaNB[76D[NaNA  react-dom ^15.6.1                                            installing . [NaNB[76D[NaNA  react-dom ^15.6.1                                        linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.0.17  
+[NaNA  react ^15.6.1                                            linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.1.2  
+[NaNA  react-scripts 1.0.7                                       linking 1.0.7 ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D
+real	0m7.360s
+user	0m8.068s
+sys	0m1.304s
+
+construction pnpm react rm occurs 4
+  react-scripts 1.0.7                                                       
+[NaNA  react-scripts 1.0.7                                                     · [NaNB[76D[NaNA  react-scripts 1.0.7                                              queued ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                          installing . [NaNB[76D  react ^15.6.1                                                             
+[NaNA  react ^15.6.1                                                           · [NaNB[76D[NaNA  react ^15.6.1                                                    queued ↓ [NaNB[76D[NaNA  react ^15.6.1                                                installing . [NaNB[76D  react-dom ^15.6.1                                                         
+[NaNA  react-dom ^15.6.1                                                       · [NaNB[76D[NaNA  react-dom ^15.6.1                                                queued ↓ [NaNB[76D[NaNA  react-dom ^15.6.1                                            installing . [NaNB[76D[NaNA  react-dom ^15.6.1                                        linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.0.17  
+[NaNA  react ^15.6.1                                            linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.1.2  
+[NaNA  react-scripts 1.0.7                                       linking 1.0.7 ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D
+real	0m7.347s
+user	0m8.164s
+sys	0m1.200s
+
+construction pnpm react rm occurs 5
+  react-scripts 1.0.7                                                       
+[NaNA  react-scripts 1.0.7                                                     · [NaNB[76D[NaNA  react-scripts 1.0.7                                              queued ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                          installing . [NaNB[76D  react ^15.6.1                                                             
+[NaNA  react ^15.6.1                                                           · [NaNB[76D[NaNA  react ^15.6.1                                                    queued ↓ [NaNB[76D[NaNA  react ^15.6.1                                                installing . [NaNB[76D  react-dom ^15.6.1                                                         
+[NaNA  react-dom ^15.6.1                                                       · [NaNB[76D[NaNA  react-dom ^15.6.1                                                queued ↓ [NaNB[76D[NaNA  react-dom ^15.6.1                                            installing . [NaNB[76D[NaNA  react-dom ^15.6.1                                        linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.0.17  
+[NaNA  react ^15.6.1                                            linking 15.6.1 ↓ [NaNB[76D  WARN Skipping failed optional dependency registry.npmjs.org/fsevents/1.1.2  
+[NaNA  react-scripts 1.0.7                                       linking 1.0.7 ↓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react-scripts 1.0.7                                               1.0.7 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react ^15.6.1                                                    15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D[NaNA  react-dom ^15.6.1                                                15.6.1 ✓ [NaNB[76D
+real	0m7.437s
+user	0m8.124s
+sys	0m1.344s
+
+construction pnpm react occurs 1
+
+real	0m0.888s
+user	0m0.932s
+sys	0m0.060s
+
+construction pnpm react occurs 2
+
+real	0m0.873s
+user	0m0.908s
+sys	0m0.064s
+
+construction pnpm react occurs 3
+
+real	0m0.846s
+user	0m0.872s
+sys	0m0.072s
+
+construction pnpm react occurs 4
+
+real	0m0.877s
+user	0m0.916s
+sys	0m0.064s
+
+construction pnpm react occurs 5
+
+real	0m0.879s
+user	0m0.924s
+sys	0m0.060s

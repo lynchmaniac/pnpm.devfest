@@ -1,0 +1,2 @@
+npm WARN deprecated phantomjs@2.1.7: Package renamed to phantomjs-prebuilt. Please update 'phantomjs' package references to 'phantomjs-prebuilt'
+npm WARN deprecated node-uuid@1.4.8: Use uuid module instead
