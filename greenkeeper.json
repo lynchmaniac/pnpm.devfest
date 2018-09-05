@@ -1,0 +1,23 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "npmalot/package.json",
+        "npmangular/package.json",
+        "npmember/package.json",
+        "npmmedium/package.json",
+        "npmreact/package.json",
+        "pnpmalot/package.json",
+        "pnpmangular/package.json",
+        "pnpmember/package.json",
+        "pnpmmedium/package.json",
+        "pnpmreact/package.json",
+        "yarnalot/package.json",
+        "yarnangular/package.json",
+        "yarnember/package.json",
+        "yarnmedium/package.json",
+        "yarnreact/package.json"
+      ]
+    }
+  }
+}
