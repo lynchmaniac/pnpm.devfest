@@ -2985,9 +2985,13 @@ highcharts-solid-gauge@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/highcharts-solid-gauge/-/highcharts-solid-gauge-0.1.2.tgz#96c2943ddf362ada650ace2777514f8bda7094bb"
 
-highcharts@^5.0.0, highcharts@^5.0.10:
+highcharts@^5.0.0:
   version "5.0.14"
   resolved "https://registry.yarnpkg.com/highcharts/-/highcharts-5.0.14.tgz#0ef14cca9f1345408568b533dae1478950d96810"
+
+highcharts@^7.2.2:
+  version "7.2.2"
+  resolved "https://registry.yarnpkg.com/highcharts/-/highcharts-7.2.2.tgz#94d6bae545d7f0fbf49615b28640f5fdbf99d11e"
 
 history@^4.6.1, history@^4.7.2:
   version "4.7.2"
